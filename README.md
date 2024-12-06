@@ -60,7 +60,7 @@ This project aims to predict sunspot activity using time-series forecasting mode
 ## **How to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/drashti-sanghani/Telecom-Customer-Churn-Analysis.git
+   git clone https://github.com/drashti-sanghani/Time-Series-Sunspot-Forecasting.git
    
 2. Navigate into the project directory:
    ```bash
